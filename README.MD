@@ -1,6 +1,6 @@
 # SEO for Webpages
 
-A public place to request features and report bugs for the PDF Embedder (Premium) widget built for Adobe Muse.
+A public place to request features and report bugs for the SEO for Webpages widget built for Adobe Muse.
 
 ## Bugs/Features
 
