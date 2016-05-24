@@ -4,7 +4,7 @@ A public place to request features and report bugs for the SEO for Webpages widg
 
 ## Bugs/Features
 
-### Reporting Bugs**
+### Reporting Bugs
 
 1. Create a *[New Issue](https://github.com/j26design/SEO-for-Webpages/issues/new?labels=bug)* in the *Issues* tab.
 2. In the *Labels* panel, click the gear and select the *bug* label from the dropdown.
