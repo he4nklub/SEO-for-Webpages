@@ -10,6 +10,10 @@ A public place to request features and report bugs for the SEO for Webpages widg
 2. In the *Labels* panel, click the gear and select the *bug* label from the dropdown.
 3. Give your issue a title and add a description *(optional)* and click *Submit new issue*!
 
+File uploads
+
+If your website is not live, I will likely need the .muse file to be able to identify bug. In these cases, you can easily upload your .[muse file here](https://www.dropbox.com/request/ua5xxdu0sLmoev2AowsD). I will be the only one that will be able to view the file.
+
 **Requesting Features**
 
 1. Create a *[New Issue](https://github.com/j26design/SEO-for-Webpages/issues/new?labels=enhancement)* in the *Issues* tab.
